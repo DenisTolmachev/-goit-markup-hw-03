@@ -366,7 +366,7 @@ footer {
   flex-wrap: wrap;
 }
 
-.projects-item:not(:nth-child(3n + 3)) {
+.projects-item:not(:nth-child(3n)) {
   margin-right: 30px;
 }
 
