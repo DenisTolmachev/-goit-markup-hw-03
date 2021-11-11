@@ -44,7 +44,6 @@ p {
   width: 1200px;
   margin: 0 auto;
   padding: 0 15px;
-  /* outline: 1px solid tomato; */
 }
 
 .link {
@@ -61,7 +60,6 @@ p {
 
 .section {
   padding: 94px 0;
-  /* outline: 1px solid blue; */
 }
 
 /*Главная страница*/
